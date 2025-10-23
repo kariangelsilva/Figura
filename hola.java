@@ -1,3 +1,6 @@
-public class hola {
-    
+public class hola  extends Figura{
+
+     public hola( double lado, double radio){
+        
+     }
 }
